@@ -3,7 +3,7 @@ import React from 'react';
 import { Route } from 'react-router';
 
 
-import HelloWorld from "./components/HelloWorld.js";
+import HelloWorld from "./components/HelloWorld";
 
 export const routes = [
     {
