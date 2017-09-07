@@ -2,7 +2,7 @@
 
 
 ## Start dev with 
-npm run dev 
+`npm run dev` 
 React HMR will be run so as you edit react components they will update in real time. 
 
 ## Build Production
